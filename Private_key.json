@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pam-excelcar",
+  "private_key_id": "05f0c5fefb141519fe78e412b9f11a41e362f498",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDegCrKD/9suhui\nQn+J+MQAO73pbAK0T4ahnLEF6xloUBt8yXs03wMXkrW6X184GG31oOu1gPH3JWR8\nGbUR8gvPvwoz+sc/eL5xhH6/1RQh30YU1XLtUmFIXJbx7kis0ThCHz0uQ2D8xrcI\nJiyABVbgUHkuU8HAL/pklCjOpR2n9q8cXSoWpK2ai/gErYTQOPhh+AH1dHUgOwY4\n+5MNkLZrWJRUoqU/7BZ8ilXqRA6wCmiub/kPho906pYtz/vtB3s3VmwVTTsRCBa0\n0vltdUPa0E8gD1avFS/9pRrb+Sx3GnfiGA+YAT6wp2ZEmwJo3LsV/fyd2ZAaxnV2\nbsD7gwIZAgMBAAECggEAFlKHeHQ4bQES6ql/QClcCKX1vKhgcRSVbjtZKz3V87gt\nucxA9yH0nnXSk5sj423YAk+dtjz0iZYPyb+Ogfllo/cHoAVl3gFQIfVn/fjzpx5O\nWqK7gAHGzsqzPhxo4CWxXjjiG3UZEuMg08l4p3NhrumD7tjqVEy780FGAs1f90zB\nfb1xRfZI8OM22LANgBIY0McOsnJhHk6LiZg0Dmonk3pgO2qKRJQukl1xWGPV9LCR\nNQa0P3JiWrZA8Kbqpu7rk1Dqtw5yFva9CSHxkaxYWXld4di/FV3T9ggb7iz28CHi\nlemn5EiZNqXs3x+A37upus6PBmgZQfbS1PY/ZutgMQKBgQD6IwOH4K7PBEtEXh5R\n9Fk0za1e3Z9Z9fz6QDg2NUbuSb0lLUtZN2FA5J9PkmeXICEYyx3ieUv2As0epFd+\nrKBY25bXyJXAk0zFQQNtXsJ17xvwbMcRJQ/gyAA/5rCyTktWqcB+5YJq12+Im3SQ\n4PhFh0Y0ePuvyNf2xcZBKOhmjQKBgQDjt1F+4XLvAsxphYHWJiO16vdz4kEhNlNP\nwLTQf23z/J7VNhs7Z0EprCn0olZmLTCbUlQuGRDoST+Mht4ZRXsqho7etMjgfGAr\nprM2udyUxUlSnz68NbCwq5ORyZoK1uVfclipvCvWQL3wYwNS6x4ktZpkZJlc8x7w\nO+NRBA98vQKBgQD1OYJqobF/LtyDaCodeopCJCoFyQxCa9DZnj/9lPm2/v+6BM/L\n5Wko73nnzsZT+KG55tejgfsgcdqaYc+NVrvUoWMepX160G4BLB2qCa5nZEVlzZ7T\nhhws6Kal/wnXpL5jdgRL48GZ8R9dM9pxdryvnVEMfFdzHFntijM1Cl/cuQKBgQC2\ncDZwqvtEFj/jAr2E7sWJiBh81XZMv5N7v+6dZJqY8XnnZBPpQc5pLq/mePEzp1zb\n89fRnu92ysiJM7xZDtugtHFeaATQJZV/I21NmRbqci1Obpr6eyF2SeBO2u/5YzYd\nhCUYx9NvMit6njkZg5mA26Y4bIiaeYX9/l0emVw3GQKBgG2CSI9RH4lGkyYRvJSQ\nKV/el/3mi87luQPN363u3hHlAvtcFsQJjsxxqIZvx/tE1VkjGKeLNzJVPxwBcDHM\n9B2a+Uth2hPH13zDKlqe3OwoUVwp2ywRxzisz/prynkOe5hNDwYLgQhRMwSBpL8q\nIx327vLsukhnyZMlWF+cUSTO\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-aobm8@pam-excelcar.iam.gserviceaccount.com",
+  "client_id": "102436235661486141447",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-aobm8%40pam-excelcar.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

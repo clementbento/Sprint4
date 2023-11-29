@@ -1,0 +1,5 @@
+n;
+Montage Coulisse;Manuel;2;Mettre en place la Coulisse;120;80;
+Reconnaissance AV/AR;Automatique;1;Marquer;40;40;
+Lève vitre;Manuel;3;Monter le lève vitre;35;12;
+Contrôle;Manuel;4;Contrôler la qualitée du montage;20;20;
