@@ -1,0 +1,3 @@
+Ce dossier contient notre Sprint 4 pour le PAM-Excelcar
+Pour exécuter notre travail il suffit de lancer l'executable NotreTravail.exe
+L'interface met quelques seconde à se lancer
